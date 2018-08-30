@@ -35,6 +35,16 @@
 #*.sqlproj   merge=binary
 #*.wwaproj   merge=binary
 
+ *.c crif diff
+ *.cc  crif diff
+ *.cpp crif diff
+ *.c++ crif diff
+ *.hpp crif diff
+ *.h  crif diff
+ *.h++ crif diff
+ *.hh  crif diff
+
+
 ###############################################################################
 # behavior for image files
 #
